@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776229243077",
+    "project_id": "cclabassign",
+    "storage_bucket": "cclabassign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776229243077:android:29b6da201c9bdde4d988ac",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776229243077-jm84g7f2mht4v9nc4nnk9m940p0n06j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNzsGJcO0ZgDwIPbCiZkwgDc_qF9TR1vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776229243077-jm84g7f2mht4v9nc4nnk9m940p0n06j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
